@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="http://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="https://res.cloudinary.com/israelz/image/upload/v1541880271/ts.png" alt="TypeScript logo">
+    </a>
+</p>
+
 <h1 align="center">Introduction To TypeScript</h1>
 
 ## Presentation
@@ -28,7 +34,7 @@ list.print();
  */
 ```
 <h4>Let's start</h4>
-* Verify that you have `Npm`, `Node` and `TypeScript` installed globally on your computer. <br />
+Verify that you have `Npm`, `Node` and `TypeScript` installed globally on your computer. <br />
 
 * Create a new empty folder. <br />
 
@@ -55,4 +61,6 @@ src/
 * Add some files to src folder compile and run.
 
 ## References
-* [`compiler-options`](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+* [`Official Docs`](https://www.typescriptlang.org/docs/home.html)
+* [`Compiler Options`](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+* [`TypeScript Github`](https://github.com/Microsoft/TypeScript)
