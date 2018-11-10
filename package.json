@@ -1,0 +1,14 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./lib/index.js",
+    "buildAndStart": "npm run build && npm run start",
+    "watch": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
