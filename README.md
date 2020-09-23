@@ -24,7 +24,7 @@ listOfAnimals.add(new Dog("Moni"));
 listOfAnimals.add(new Cat("Marshel")); 
 listOfAnimals.add(new Horse("Din")); 
 
-list.print();
+listOfAnimals.print();
 /*
     Expected output:
     Hello I am Joy!
